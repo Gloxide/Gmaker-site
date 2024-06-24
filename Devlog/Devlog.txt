@@ -1,0 +1,2 @@
+[align=justify]Devlog #1[/align]
+[align=center]This is the first Devlog for Gmaker.[/align]
